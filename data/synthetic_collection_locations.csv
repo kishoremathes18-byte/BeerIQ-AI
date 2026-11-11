@@ -1,0 +1,10 @@
+location,lat,lon,containers,storage_capacity,is_depot
+Illustrative Depot (Toronto),43.68,-79.39,0,99999,True
+Toronto Central Point,43.653,-79.383,1750,2200,False
+Toronto West Point,43.655,-79.475,1220,1600,False
+Mississauga Point,43.589,-79.644,1870,2000,False
+Brampton Point,43.731,-79.763,1130,1500,False
+Hamilton Point,43.256,-79.872,1040,1600,False
+Oakville Point,43.468,-79.688,650,1500,False
+Burlington Point,43.325,-79.8,870,1100,False
+Milton Point,43.519,-79.878,500,1600,False

@@ -1,0 +1,145 @@
+store,product,on_hand
+Toronto Central,Classic Lager A,64
+Toronto Central,Crisp Lager B,52
+Toronto Central,Northern Pilsner,12
+Toronto Central,Golden Lager C,55
+Toronto Central,Amber Ale A,69
+Toronto Central,Session Pale Ale,29
+Toronto Central,West Coast IPA,80
+Toronto Central,Hazy IPA A,26
+Toronto Central,Wheat Style A,28
+Toronto Central,Dark Stout A,21
+Toronto Central,Dry Stout B,70
+Toronto Central,Porter A,33
+Toronto Central,Brown Ale A,19
+Toronto Central,Citrus Wheat B,39
+Toronto Central,Pale Ale B,22
+Toronto Central,Light Lager D,93
+Toronto Central,Malt Style A,81
+Toronto Central,Seasonal Craft A,26
+Toronto West,Classic Lager A,53
+Toronto West,Crisp Lager B,20
+Toronto West,Northern Pilsner,30
+Toronto West,Golden Lager C,75
+Toronto West,Amber Ale A,69
+Toronto West,Session Pale Ale,70
+Toronto West,West Coast IPA,14
+Toronto West,Hazy IPA A,55
+Toronto West,Wheat Style A,85
+Toronto West,Dark Stout A,15
+Toronto West,Dry Stout B,26
+Toronto West,Porter A,14
+Toronto West,Brown Ale A,64
+Toronto West,Citrus Wheat B,35
+Toronto West,Pale Ale B,18
+Toronto West,Light Lager D,78
+Toronto West,Malt Style A,80
+Toronto West,Seasonal Craft A,25
+Mississauga,Classic Lager A,56
+Mississauga,Crisp Lager B,76
+Mississauga,Northern Pilsner,42
+Mississauga,Golden Lager C,22
+Mississauga,Amber Ale A,71
+Mississauga,Session Pale Ale,18
+Mississauga,West Coast IPA,20
+Mississauga,Hazy IPA A,87
+Mississauga,Wheat Style A,34
+Mississauga,Dark Stout A,42
+Mississauga,Dry Stout B,92
+Mississauga,Porter A,45
+Mississauga,Brown Ale A,88
+Mississauga,Citrus Wheat B,75
+Mississauga,Pale Ale B,23
+Mississauga,Light Lager D,50
+Mississauga,Malt Style A,32
+Mississauga,Seasonal Craft A,16
+Brampton,Classic Lager A,70
+Brampton,Crisp Lager B,76
+Brampton,Northern Pilsner,42
+Brampton,Golden Lager C,52
+Brampton,Amber Ale A,72
+Brampton,Session Pale Ale,33
+Brampton,West Coast IPA,68
+Brampton,Hazy IPA A,28
+Brampton,Wheat Style A,20
+Brampton,Dark Stout A,75
+Brampton,Dry Stout B,94
+Brampton,Porter A,69
+Brampton,Brown Ale A,86
+Brampton,Citrus Wheat B,80
+Brampton,Pale Ale B,20
+Brampton,Light Lager D,22
+Brampton,Malt Style A,14
+Brampton,Seasonal Craft A,27
+Hamilton,Classic Lager A,94
+Hamilton,Crisp Lager B,44
+Hamilton,Northern Pilsner,35
+Hamilton,Golden Lager C,92
+Hamilton,Amber Ale A,38
+Hamilton,Session Pale Ale,20
+Hamilton,West Coast IPA,79
+Hamilton,Hazy IPA A,55
+Hamilton,Wheat Style A,13
+Hamilton,Dark Stout A,58
+Hamilton,Dry Stout B,58
+Hamilton,Porter A,28
+Hamilton,Brown Ale A,24
+Hamilton,Citrus Wheat B,86
+Hamilton,Pale Ale B,22
+Hamilton,Light Lager D,13
+Hamilton,Malt Style A,31
+Hamilton,Seasonal Craft A,90
+Oakville,Classic Lager A,68
+Oakville,Crisp Lager B,19
+Oakville,Northern Pilsner,63
+Oakville,Golden Lager C,94
+Oakville,Amber Ale A,84
+Oakville,Session Pale Ale,27
+Oakville,West Coast IPA,66
+Oakville,Hazy IPA A,50
+Oakville,Wheat Style A,14
+Oakville,Dark Stout A,31
+Oakville,Dry Stout B,50
+Oakville,Porter A,36
+Oakville,Brown Ale A,31
+Oakville,Citrus Wheat B,19
+Oakville,Pale Ale B,70
+Oakville,Light Lager D,88
+Oakville,Malt Style A,81
+Oakville,Seasonal Craft A,76
+Burlington,Classic Lager A,31
+Burlington,Crisp Lager B,43
+Burlington,Northern Pilsner,94
+Burlington,Golden Lager C,50
+Burlington,Amber Ale A,14
+Burlington,Session Pale Ale,82
+Burlington,West Coast IPA,71
+Burlington,Hazy IPA A,34
+Burlington,Wheat Style A,81
+Burlington,Dark Stout A,33
+Burlington,Dry Stout B,94
+Burlington,Porter A,39
+Burlington,Brown Ale A,50
+Burlington,Citrus Wheat B,38
+Burlington,Pale Ale B,89
+Burlington,Light Lager D,44
+Burlington,Malt Style A,35
+Burlington,Seasonal Craft A,44
+Milton,Classic Lager A,29
+Milton,Crisp Lager B,86
+Milton,Northern Pilsner,45
+Milton,Golden Lager C,12
+Milton,Amber Ale A,30
+Milton,Session Pale Ale,67
+Milton,West Coast IPA,12
+Milton,Hazy IPA A,14
+Milton,Wheat Style A,85
+Milton,Dark Stout A,49
+Milton,Dry Stout B,76
+Milton,Porter A,72
+Milton,Brown Ale A,24
+Milton,Citrus Wheat B,86
+Milton,Pale Ale B,85
+Milton,Light Lager D,86
+Milton,Malt Style A,90
+Milton,Seasonal Craft A,71
