@@ -1,0 +1,7 @@
+container_type,tbs_sales_units,returns_units,published_recovery_rate_pct,data_status
+All glass bottles,285138657,305116380,86,Published 2024; denominator includes LCBO sales
+Refillable bottles,212802211,214628733,89,Published 2024; denominator includes LCBO sales
+Non-refillable bottles,72336446,90487647,81,Published 2024; denominator includes LCBO sales
+Metal cans,725152420,874768164,73,Published 2024; denominator includes LCBO sales
+Kegs,1046127,1068135,102,Published 2024; denominator includes LCBO sales
+Total,1011337204,1180952679,76,Published 2024; denominator includes LCBO sales
